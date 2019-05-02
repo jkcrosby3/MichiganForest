@@ -248,7 +248,7 @@
 				
 			}  //forestlandacresregennaturalpieResponseHandler
 			
-			/**************************************************************/				
+			/**************************************************************				
 							
 			function forestlandnumdeadtreebysizeResponseHandler(response){
 				if (response.isError()) {
@@ -267,7 +267,7 @@
 				chart.draw(data, options);
 				}
 				//forestlandnumdeadtreebysizebarsResponseHandler
-			/**************************************************************/
+			**************************************************************/
 		
 			/************************************************************/
 	
