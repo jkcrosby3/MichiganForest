@@ -4,6 +4,7 @@ title: Statistics
 subtitle: Overview of Michigan Forest Statistics 2004-2017
 bigimg: /img/start.jpg
 ---
+
 	<script type = "text/javascript">
 			//load the google charts
 			
@@ -24,6 +25,7 @@ bigimg: /img/start.jpg
 				
 			}  //drawAllSheets
 //************************************************************************************************
+
 			function drawSheetName(sheetName, query, responseHandler){
 				var queryString = encodeURIComponent(query);
 				var query = new google.visualization.Query(
@@ -49,41 +51,17 @@ bigimg: /img/start.jpg
 						//,showRowNumber: true
 						
 						};
-/*				var dashboard = new google.visualization.Dashboard(document.querySelector('#dashboard'));
 
-				var stringFilter = new google.visualization.ControlWrapper({
-					controlType: 'StringFilter',
-					containerId: 'string_filter_div',
-					options: {
-						filterColumnIndex: 0
-					}
-				});		
-				var table = new google.visualization.ChartWrapper({
-					chartType: 'Table',
-					containerId: 'michstats_div',
-					options: {
-						showRowNumber: false
-					}
-				});
-				dashboard.bind([stringFilter], [table]);
-				dashboard.draw(data);
-			}
-			google.load('visualization', '1', { packages: ['controls'], callback: drawAllSheets });
-*/			
 			var table = new google.visualization.Table(
 									document.getElementById('michstats_div')
 									)
 				table.draw(data, options );
 				}
 				//michstatsResponseHandler
-		
-
-
-
-		
-	</script>		
-					<div id="michstats_div"
-						style="width:800px;" ></div>
+	</script>	
+	
+	<div id="michstats_div"
+		style="width:800px;" ></div>
 
 **Beautiful Jekyll** is a ready-to-use template to make help you create an awesome Jekyll or GitHub Pages website quickly. 
 
