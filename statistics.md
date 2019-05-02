@@ -14,4 +14,3 @@ Currently Michigan has over 20 million acres of forest land (forest land + timbe
 
 <div id="michstats_div"
 	style="width:800px;" ></div>
-
