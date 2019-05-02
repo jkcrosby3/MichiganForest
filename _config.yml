@@ -10,7 +10,7 @@
 # If you are building a GitHub project page then use these settings:
 # Replace with your project's URL!
 url: "https://jkcrosby3.github.io/MichiganForest"
-baseurl: "/MichiganForest"
+# baseurl: "/MichiganForest"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
