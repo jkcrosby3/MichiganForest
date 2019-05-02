@@ -8,7 +8,7 @@ bigimg: /img/start.jpg
 <script src="https://jkcrosby3.github.io/MichiganForest/assets/areacharts.js"></script>	
 
 **Forest Area**
-<img style="padding: 15px 15px 15px 15px;float:right;" src="/images/mi_hogsback_mtn-cropped.jpg" alt="Hogsback Mountain" style="width:250px; height:230px;">
+<img style="padding: 15px 15px 15px 15px;float:right;" src="/img/mi_hogsback_mtn-cropped.jpg" alt="Hogsback Mountain" style="width:250px; height:230px;">
 
 **Michigan Forest Land and Timberland by Year**
 
