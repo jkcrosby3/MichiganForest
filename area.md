@@ -76,6 +76,7 @@ The forests have been maturing, as seen by the distribution of stand-size classe
 **What does this mean?**
 				
 Michigan's forestland base has remained relatively stable
+
 ##Losses in forest due to conversions or mortality but stable.
 ##Current forest stand-size and age-class distributions indicate maturing forest, but still have young stands with 22 percent less than 40 years old.  
-##Trend in maturing forests look to continue.
+##Trend of maturing forests looks to continue.
