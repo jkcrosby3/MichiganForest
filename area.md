@@ -36,9 +36,9 @@ The forests have been maturing, as seen by the distribution of stand-size classe
 
 ***Stand-Size  |  2004-2017***
 
-##The number of sawtimber-size (9.0 inches d.b.h. for softwoods, 11.0 inches d.b.h. for hardwoods) trees increased by 31 percent.
-##The number of poletimber-size trees decreased by 17 percent.  
-##The number of saplings (1 to less than 5 inches d.b.h.) decreased by 2% percent.
+*The number of sawtimber-size (9.0 inches d.b.h. for softwoods, 11.0 inches d.b.h. for hardwoods) trees increased by 31 percent.
+*The number of poletimber-size trees decreased by 17 percent.  
+*The number of saplings (1 to less than 5 inches d.b.h.) decreased by 2% percent.
 
 **Acres of Forest Land by Stand-Size Class (2004-2017)**
 
@@ -47,10 +47,10 @@ The forests have been maturing, as seen by the distribution of stand-size classe
 	
 ***Age***
 
-##50 percent of all stands are between 51-85 years old.
-##32 percent of timberland area is younger.  
-##6 percent of timberland area is over 100 years old.  
-##Acreage has increased in stands from 16-25 and 66-100+ years old and decreased in stands from 0-15 and 26-65 years old.  
+*50 percent of all stands are between 51-85 years old.
+*32 percent of timberland area is younger.  
+*6 percent of timberland area is over 100 years old.  
+*Acreage has increased in stands from 16-25 and 66-100+ years old and decreased in stands from 0-15 and 26-65 years old.  
 
 **Acres of Forest Land by Stand-Age Class-pie (2017)**
 
@@ -81,6 +81,6 @@ The forests have been maturing, as seen by the distribution of stand-size classe
 				
 Michigan's forestland base has remained relatively stable
 
-##Losses in forest due to conversions or mortality but stable.
-##Current forest stand-size and age-class distributions indicate maturing forest, but still have young stands with 22 percent less than 40 years old.  
-##Trend of maturing forests looks to continue.
+*Losses in forest due to conversions or mortality but stable.
+*Current forest stand-size and age-class distributions indicate maturing forest, but still have young stands with 22 percent less than 40 years old.  
+*Trend of maturing forests looks to continue.
