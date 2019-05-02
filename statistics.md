@@ -5,7 +5,7 @@ subtitle: Overview of Michigan Forest Statistics 2004-2017
 bigimg: /img/start.jpg
 ---
 
-	
+<script src="assets/statisticscharts.js"></script>	
 
 **Beautiful Jekyll** is a ready-to-use template to make help you create an awesome Jekyll or GitHub Pages website quickly. 
 
