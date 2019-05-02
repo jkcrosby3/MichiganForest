@@ -9,16 +9,16 @@
 
 # If you are building a GitHub project page then use these settings:
 # Replace with your project's URL!
-url: "http://kerchner.github.io/beautiful-project"
-baseurl: "/beautiful-project"
+url: "http://jkcrosby3.github.io/MichiganForest"
+baseurl: "/MichiganForest"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My Data Science Project
+title: Michigan Forest Inventory Analysis
 
 # Short description of your site
-description: Here's the description of my porject
+description: Analysis of Michigan Forest Inventory 2004-2017
 
 # --- Navigation bar options --- #
 
@@ -29,11 +29,11 @@ description: Here's the description of my porject
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Resources:
+  Statistics:
     - Getting started: "getstarted"
     - Other sites that use this template: "featured-users"
     - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
-  Example pages:
+  Acreage:
     - Example of a Markdown page: "md-example"
     - Example of an HTML page: "html-example"
   About me: "https://www.linkedin.com/school/george-washington-university/about/"
@@ -43,7 +43,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Your name goes here
+  name: Jennifer Crosby
   email: "youremail@gmail.com"
   facebook: yourfacebook
   github: yourgithub
