@@ -23,7 +23,7 @@ Families and individuals, corporations, and other private entities own the major
 **Forest Land Ownership- pie chart**
 
 <div id="forestownerpie_div"
-	style="float:right;","width:400px;" ></div>
+	style="width:400px;" ></div>
 
 **Forest Land Ownership**
 
