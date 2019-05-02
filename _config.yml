@@ -32,8 +32,8 @@ navbar-links:
     - Overview: "statistics"
    
    # - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
-  Acreage:
-    - Acreage statistics: "area"
+  Area:
+    - Forest Land Area: "area"
     
 
 # --- Footer options --- #
