@@ -22,12 +22,10 @@ identified as not being able to meet minimum productivity standards. Forest land
 
 Families and individuals, corporations, and other private entities own the majority of forest land (61.8%), with the amount slowly increasing yearly, 643,000 acres since 2004, or 5%. The State of Michigan, U.S. Forest Service and National Park Service, and other federal groups own the remainder (23.1%, 13.6%, 1.5%, respectively).
 
-<div style="width: 900px;">
 	<div id="forestownerpie_div"
 		style="float:right;","width:400px;" ></div>
 	<div id="forestownership_div"
 		style="width:390px;" ></div>
-</div>
 									
 **Timberland by stand-size class and year - Michigan**
 
