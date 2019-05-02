@@ -6,44 +6,11 @@ bigimg: /img/start.jpg
 ---
 
 <script src="https://jkcrosby3.github.io/MichiganForest/assets/statisticscharts.js"></script>	
+**Overview**
+The U.S. Forest Service, Forest Inventory and Analysis (FIA) program of the Northern Research Station conducts inventory on an annual basis, completing 20% of an area in a year's timeframe, completing inventory every five years. The annual inventory started in 1999.
+Currently Michigan has over 20 million acres of forest land (forest land + timberland) (Table 1), an increase of 6% since 2004. The forest land has increased by 1 million acres. Along with this increase is an increase in total number of trees, volume, and biomass. The net growth has taken a huge plunge of 33%, which is due, in part, to mortality of Ash and American beech (Fagus grandifolia), due to ash borer (EAB, Argrilius planipennis Fairmaire) and beech bark disease (Cryptococus fagisuga and Neonectria) ([Michigan Forest Health](https://github.com/daattali/beautiful-jekyll#readme)). Removals of live trees has a tremendous increase of 314%. The mortality of trees on forestland shows a disturbing 26% increase over this time span.
+**Michigan Forest Statistics, 2004, 2009, 2014, 2017**
+
 <div id="michstats_div"
 						style="width:800px;" ></div>
-**Beautiful Jekyll** is a ready-to-use template to make help you create an awesome Jekyll or GitHub Pages website quickly. 
 
-To learn how you can use **Beautiful Jekyll** to create your website in minutes, go to the [Beautiful Jekyll GitHub page](https://github.com/daattali/beautiful-jekyll#readme).
-
-
-<div class="get-started-wrap">
-  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
-</div>
-<br/>
-
-## Overview of steps required
-
-There are only three simple steps, so using **Beautiful Jekyll** is *literally* as easy as 1-2-3 :)    
-
-Here is a 40-second video showing how to get started, with the specific steps below.  For a more complete installation guide, [visit the Beautiful Jekyll page](https://github.com/daattali/beautiful-jekyll#readme).
-
-<img src="../img/install-steps.gif" style="width:100%;" alt="Installation steps" />
-
-### 1. Fork the Beautiful Jekyll repository 
-
-Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
-
-### 2. Rename the repository to `yourusername.github.io`
-
-This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at http://yourusername.github.io (sometimes it takes a few minutes).
-
-### 3. Customize settings
-
-Edit the `_config.yml` file to change all the settings to reflect your site.  The settings in the file are fairly self-explanatory and I added comments inside the file to help you further.  Every time you make a change to any file, your website will get rebuilt and should be updated at `yourusername.github.io` within a minute.
-
-You can now visit your shiny new website, which will be seeded with several sample blog posts and a couple other pages.
-
----
-
-See how easy that is? I wasn't lying - it really can be done in two minutes.
-
-<div class="get-started-wrap">
-  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
-</div>
