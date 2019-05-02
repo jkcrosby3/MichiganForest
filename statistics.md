@@ -2,7 +2,7 @@
 layout: page
 title: Statistics
 subtitle: Overview of Michigan Forest Statistics 2004-2017
-bigimg: "img/boardwalk-forest-photos-michigan.jpg"
+bigimg: "/img/boardwalk-forest-photos-michigan.jpg"
 ---
 
 <script src="https://jkcrosby3.github.io/MichiganForest/assets/statisticscharts.js"></script>	
