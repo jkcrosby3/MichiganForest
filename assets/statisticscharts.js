@@ -1,5 +1,5 @@
 
-<script type = "text/javascript">
+
 			//load the google charts
 			
 			google.charts.load('current', {'packages':['table']});
@@ -52,7 +52,4 @@
 				table.draw(data, options );
 				}
 				//michstatsResponseHandler
-	</script>	
 	
-	<div id="michstats_div"
-		style="width:800px;" ></div>
