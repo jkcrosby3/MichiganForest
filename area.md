@@ -2,7 +2,7 @@
 layout: page
 title: Area
 subtitle: Breakdown of Michigan Forest Inventory Data by Area 2004-2017
-bigimg: "img/sandlakes_quietarea.jpg"
+bigimg: "/img/sandlakes_quietarea.jpg"
 ---
 
 <script src="https://jkcrosby3.github.io/MichiganForest/assets/areacharts.js"></script>	
