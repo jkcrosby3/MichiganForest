@@ -72,11 +72,6 @@ The forests have been maturing, as seen by the distribution of stand-size classe
 <div id="forestlandregenacrespie_div"
 	style="width:800px;" ></div>		
 	
-**Number of Dead Trees on Forest Land by Stand-Size Class (2004-2017)**
-
-<div id="forestlanddeadacressizepie_div"
-	style="width:800px;" ></div>
-				
 **What does this mean?**
 				
 Michigan's forestland base has remained relatively stable
