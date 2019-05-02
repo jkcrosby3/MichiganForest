@@ -24,9 +24,9 @@
 							'Select A,B',
 							forestownerpieResponseHandler);
 				
-				drawSheetName('sr005_acresflandbytreesize', 
-							'Select A,B,C,D,E',
-							forestlandstandsizeResponseHandler);
+			//	drawSheetName('sr005_acresflandbytreesize', 
+				//			'Select A,B,C,D,E',
+				//			forestlandstandsizeResponseHandler);
 				
 				drawSheetName('sr006_acresflandbyage', 
 							'Select A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V ',
