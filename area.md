@@ -23,12 +23,12 @@ Families and individuals, corporations, and other private entities own the major
 **Forest Land Ownership- pie chart**
 
 <div id="forestownerpie_div"
-	style="width:400px;" ></div>
+	style="width:800px;" ></div>
 
 **Forest Land Ownership**
 
 <div id="forestownership_div"
-	style="width:390px;" ></div>
+	style="width:800px;" ></div>
 									
 **Timberland by stand-size class and year - Michigan**
 
