@@ -42,6 +42,7 @@ The forests have been maturing, as seen by the distribution of stand-size classe
 	style="width:650px;" ></div>		
 	
 ***Age***
+
 ##50 percent of all stands are between 51-85 years old.
 ##32 percent of timberland area is younger.  
 ##6 percent of timberland area is over 100 years old.  
