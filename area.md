@@ -34,7 +34,7 @@ Families and individuals, corporations, and other private entities own the major
 
 The forests have been maturing, as seen by the distribution of stand-size classes.  
 
-***Stand-Size  |  2004-2017***
+**Stand-Size  |  2004-2017**
 
 *The number of sawtimber-size (9.0 inches d.b.h. for softwoods, 11.0 inches d.b.h. for hardwoods) trees increased by 31 percent.
 *The number of poletimber-size trees decreased by 17 percent.  
