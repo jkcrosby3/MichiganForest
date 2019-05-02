@@ -2,7 +2,7 @@
 layout: page
 title: Statistics
 subtitle: Overview of Michigan Forest Statistics 2004-2017
-bigimg: 
+bigimg: img/boardwalk-forest-photos-michigan.jpg
 ---
 
 <script src="https://jkcrosby3.github.io/MichiganForest/assets/statisticscharts.js"></script>	
@@ -13,5 +13,5 @@ Currently Michigan has over 20 million acres of forest land (forest land + timbe
 **Michigan Forest Statistics, 2004, 2009, 2014, 2017**
 
 <div id="michstats_div"
-						style="width:800px;" ></div>
+	style="width:800px;" ></div>
 
