@@ -30,13 +30,12 @@ description: Analysis of Michigan Forest Inventory 2004-2017
 navbar-links:
   Home: ""
   Statistics:
-    - Getting started: "getstarted"
-    - Other sites that use this template: "featured-users"
-    - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
+    - Overview: "statistics"
+   
+   # - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
   Acreage:
-    - Example of a Markdown page: "md-example"
-    - Example of an HTML page: "html-example"
-  About me: "https://www.linkedin.com/school/george-washington-university/about/"
+    - Acreage statistics: "acres"
+    
 
 # --- Footer options --- #
 
