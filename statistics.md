@@ -2,7 +2,7 @@
 layout: page
 title: Statistics
 subtitle: Overview of Michigan Forest Statistics 2004-2017
-bigimg: img/kisspng-michigan-royalty-free-american-football-silhouette-5b3d1e1694b871.9695026015307320546092.png
+bigimg: 
 ---
 
 <script src="https://jkcrosby3.github.io/MichiganForest/assets/statisticscharts.js"></script>	
