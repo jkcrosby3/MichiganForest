@@ -184,7 +184,7 @@
 				}
 				//forestlandstandageResponseHandler
 				
-			/**************************************************************/				
+			/**************************************************************				
 			function forestlandnumlivetreebysizeResponseHandler(response){
 				if (response.isError()) {
 					alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
@@ -202,7 +202,7 @@
 				chart.draw(data, options);
 				}
 				//forestlandnumlivetreebysizeResponseHandler		
-			/**************************************************************/
+			**************************************************************/
 			function timberlandacresbysizeResponseHandler(response){
 				if (response.isError()) {
 					alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
